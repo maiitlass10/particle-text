@@ -4,7 +4,9 @@ Type any word and thousands of particles fly in to form it. Move the mouse throu
 
 Built with plain JavaScript and the HTML Canvas API. No libraries.
 
-**Live demo:** https://maiitlass10.github.io/particle-text/
+| | | |
+|---|---|---|
+| ![](shot-1.png) | ![](shot-2.png) | ![](shot-3.png) |
 
 ## Features
 - **Text to particles**: the word is drawn on a hidden canvas and its pixels are sampled into ~4,000+ target points
